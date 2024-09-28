@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = farreralara.martin@gmail.com
+	name = Martin Farrera
